@@ -25,6 +25,10 @@ Integramos investigación aplicada, evaluación, psicometría, análisis estadí
 
     Diseñamos indicadores institucionales, matrices de seguimiento, KPI e índices de evaluación.
 
+- :material-robot-outline: **Creamos sistemas RAG**
+
+    Desarrollamos asistentes internos y sistemas de consulta documental basados en documentos, bases de conocimiento y repositorios institucionales.
+
 - :material-view-dashboard-outline: **Creamos dashboards**
 
     Desarrollamos tableros ejecutivos, reporteadores y soluciones visuales para monitoreo.

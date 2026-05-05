@@ -67,6 +67,7 @@ nav:
       - Evaluación de programas: servicios/evaluacion.md
       - Dashboards y reporteadores: servicios/dashboards.md
       - Automatización: servicios/automatizacion.md
+      - Sistemas RAG y consulta documental: servicios/rag.md
       - Comunicación ejecutiva: servicios/comunicacion.md
   - Sectores:
       - Panorama general: sectores/index.md
