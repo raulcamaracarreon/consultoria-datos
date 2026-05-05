@@ -34,5 +34,5 @@ Para preparar una propuesta específica, es conveniente contar con:
 ## Datos de contacto
 
 
-**Teléfono:** +52 1 55 3287 4013 / +52 1 55 7948 8159
+**Teléfono:** +52 1 55 3287 4013 / +52 1 33 4944 8891
 
