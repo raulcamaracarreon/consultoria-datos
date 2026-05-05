@@ -33,10 +33,6 @@ Para preparar una propuesta específica, es conveniente contar con:
 
 ## Datos de contacto
 
-**Nombre de la consultoría:** Por definir  
-**Correo:** contacto@tudominio.com  
-**Teléfono:** Por definir  
-**Sitio web:** Por definir  
 
-!!! note "Siguiente paso sugerido"
-    Sustituir esta sección por un formulario real, enlaces a correo, WhatsApp o una página de agenda.
+**Teléfono:** +52 1 55 3287 4013 / +52 1 55 7948 8159
+

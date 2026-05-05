@@ -59,6 +59,12 @@ Nuestra oferta se organiza en líneas modulares que pueden contratarse de manera
 
     [Ver servicio](automatizacion.md)
 
+- **Sistemas RAG y consulta documental**
+
+    Asistentes internos y sistemas de consulta basados en documentos, bases de conocimiento y repositorios institucionales.
+
+    [Ver servicio](rag.md)
+
 - **Comunicación ejecutiva**
 
     Informes técnicos, presentaciones, infografías y narrativas de resultados.

@@ -59,6 +59,20 @@ La selección de herramientas depende del contexto, presupuesto, infraestructura
 - Aplicaciones internas de escritorio o web.
 - Integraciones mediante APIs, cuando aplique.
 
+## Inteligencia artificial y sistemas RAG
+
+- Modelos de lenguaje.
+- Embeddings.
+- Bases vectoriales.
+- ChromaDB.
+- FAISS.
+- Supabase Vector.
+- LangChain.
+- LlamaIndex.
+- OpenAI API.
+- Modelos locales, cuando aplique.
+- Interfaces de chat documental.
+
 ## Criterios para seleccionar herramientas
 
 - Necesidad real del cliente.
