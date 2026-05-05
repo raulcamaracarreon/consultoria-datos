@@ -1,0 +1,81 @@
+site_name: Consultoría en Investigación, Evaluación e Inteligencia de Datos
+site_description: Servicios de investigación aplicada, evaluación, psicometría, análisis de datos, dashboards y automatización.
+site_author: Consultoría
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+
+extra_css:
+  - overrides/stylesheets/extra.css
+
+nav:
+  - Inicio: index.md
+  - Quiénes somos: quienes-somos.md
+  - Enfoque: enfoque.md
+  - Servicios:
+      - Panorama general: servicios/index.md
+      - Diagnóstico de información: servicios/diagnostico.md
+      - Instrumentos y levantamientos: servicios/instrumentos.md
+      - Psicometría: servicios/psicometria.md
+      - Limpieza, ETL y sistematización: servicios/datos-etl.md
+      - Análisis estadístico y ciencia de datos: servicios/analisis.md
+      - Evaluación de programas: servicios/evaluacion.md
+      - Dashboards y reporteadores: servicios/dashboards.md
+      - Automatización: servicios/automatizacion.md
+      - Comunicación ejecutiva: servicios/comunicacion.md
+  - Sectores:
+      - Panorama general: sectores/index.md
+      - Sector educativo: sectores/educativo.md
+      - Sector público y social: sectores/publico-social.md
+      - Empresas y negocios: sectores/empresas.md
+      - Investigación de mercados: sectores/investigacion-mercados.md
+  - Metodología: metodologia.md
+  - Entregables: entregables.md
+  - Tecnologías: tecnologias.md
+  - Casos de uso: casos-uso.md
+  - Contacto: contacto.md

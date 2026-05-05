@@ -1,0 +1,20 @@
+.md-typeset h1 {
+  font-weight: 800;
+}
+
+.md-typeset h2 {
+  margin-top: 2.2rem;
+}
+
+.md-button {
+  border-radius: 999px;
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-radius: 1rem;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.8rem;
+}
